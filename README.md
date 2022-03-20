@@ -1,5 +1,7 @@
 # Azure Service Bus - Queues
 
+![example workflow](https://github.com/epomatti/ServiceBusQueues/actions/workflows/dotnet.yml/badge.svg)
+
 Sample application using Azure Service Bus Queues to send and receive messages.
 
 ## Azure Setup
