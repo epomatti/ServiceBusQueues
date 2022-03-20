@@ -1,6 +1,6 @@
-# Azure Service Bus
+# Azure Service Bus - Queues
 
-Sample application using Azure Service Bus to send and receive messages.
+Sample application using Azure Service Bus Queues to send and receive messages.
 
 ## Azure Setup
 
